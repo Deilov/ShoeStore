@@ -6,7 +6,7 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/bg_login_gradient"
+        android:background="@color/design_default_color_error"
         android:padding="@dimen/indent_x2"
         tools:context=".screens.LoginFragment">
 
